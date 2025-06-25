@@ -1,2 +1,2 @@
-# laravel-vue-base
-Base install of Laravel/Vue.JS
+# laravel-base
+Base install of Laravel
